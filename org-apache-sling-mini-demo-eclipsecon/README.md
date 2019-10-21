@@ -1,7 +1,7 @@
-Apache Sling Mini - Demo Project
+Apache Sling Mini - Demo EclipseCon Project
 ====
 
-The Apache Sling Mini - Demo Project showcases how to build a Sling instance capable of rendering
+The Apache Sling Mini - Demo EclipseCon Project showcases how to build a Sling instance capable of rendering
 a website based on remote resources stored in a Dropbox folder.
 
 This feature extends Apache Sling Mini with the bundles found in [./src/main/features](./src/main/features), which can
